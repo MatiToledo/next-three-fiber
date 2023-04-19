@@ -1,0 +1,32 @@
+{
+  "name": "next-three-fiber",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint \"src/**/*.ts?(x)\" --quiet --fix"
+  },
+  "dependencies": {
+    "@next/bundle-analyzer": "10.0.7",
+    "@react-spring/three": "^9.0.0-rc.3",
+    "@react-three/drei": "^3.4.0",
+    "next": "10.0.7",
+    "next-compose-plugins": "2.2.1",
+    "next-offline": "5.0.2",
+    "next-transpile-modules": "^6.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-three-fiber": "^5.3.18",
+    "styled-components": "^5.2.1",
+    "three": "^0.125.2",
+    "webpack": "5.24.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.25",
+    "@types/react": "^17.0.1",
+    "@types/styled-components": "^5.1.7",
+    "eslint-config-johnanon": "^1.1.5"
+  }
+}

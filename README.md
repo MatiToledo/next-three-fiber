@@ -1,2 +1,1 @@
-# next-three-fiber
-Created with CodeSandbox
+# React Three Fiber
